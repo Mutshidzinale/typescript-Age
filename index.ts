@@ -44,7 +44,7 @@ else  if (students[5].studAge>students[0].studAge&&students[5].studAge>students[
 console.log("The oldest student is:",students[5].studName ,"Age:",oldestStuAge=students[5].studAge)
 }
 else  if (students[6].studAge>students[0].studAge&&students[6].studAge>students[1].studAge&&students[6].studAge>students[2].studAge&&students[6].studAge>students[3].studAge&&students[6].studAge>students[4].studAge&&students[6].studAge>students[5].studAge&&students[6].studAge>students[7].studAge&&students[6].studAge>students[8].studAge&&students[6].studAge>students[9].studAge){
-console.log(students[6].studName ,oldestStuAge=students[6].studAge)}
+console.log("The oldest student is :",students[6].studName ,"Age:",oldestStuAge=students[6].studAge)}
 
 else  if (students[7].studAge>students[0].studAge&&students[7].studAge>students[1].studAge&&students[7].studAge>students[2].studAge&&students[7].studAge>students[3].studAge&&students[7].studAge>students[4].studAge&&students[7].studAge>students[5].studAge&&students[7].studAge>students[6].studAge&&students[7].studAge>students[8].studAge&&students[7].studAge>students[9].studAge){
 console.log("The oldest student is:",students[7].studName ,"Age:",oldestStuAge=students[7].studAge)
